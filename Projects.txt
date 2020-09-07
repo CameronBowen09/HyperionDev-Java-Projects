@@ -1,0 +1,3 @@
+1, House Project, House, 1738 Rodao Drive, 32, 40000, 20000, 09/02/2020, Cameron, 0617475383, cameronbowen075@gmail.com, 123 Seventh Street, Vanessa, +27826545733, vanessa@pop.co.za, 89 Fourth Street, Shaun, 0829052809, shoun@gmail.com, 998 Fifteenth Street
+2, Apartment Project, Apartment Block, 756 Hollywood Bolavard, 59, 250000, 50000, 12/25/2019, Keagan, +27715677389, keagan@gmail.com, 354 Street Street, Brendon, 0937659037, brendon@gmail.com, 27 River Road, Nikita, 0763849021, nikita@gmail.com, 57 Acher Drive
+3, parking lot build, parking lot, 123 street, 54, 50000, 30000, 05/09/2020, joe, 0987654321, joe@gmail.com, 321 street, steve, 0937564837, steve@gmail.com, 456 street, Elly, 0984537289, elly@gmail.com, 4321 street

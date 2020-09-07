@@ -1,0 +1,7 @@
+Customer Invoice: 
+------------------------
+Name: Shaun
+Tell Number: 0829052809
+Email: shoun@gmail.com
+Address: 998 Fifteenth Street
+Amount still owed: 20000
